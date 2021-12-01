@@ -2,7 +2,7 @@
 
 ## Le challenge
 
-Le challenge est de créer un dashboard similaire à celui des exemples fournis.
+Le challenge est de créer un dashboard similaire à celui des exemples fournis. Vous trouverez les ressources habituelles (design, style guide) dans le dossier `exo-ressources`.
 
 Votre code devrait :
 
