@@ -1,24 +1,22 @@
-# ttd
+![Preview](./exo-ressources/design/desktop-preview.jpg)
 
-## Project setup
-```
-npm install
-```
+## Le challenge
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Le challenge est de créer un dashboard similaire à celui des exemples fournis.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Votre code devrait :
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Utiliser des components intelligemment pour subdiviser la page et éviter les répétitions
+- Utiliser du SASS/SCSS pour le style
+- **Bonus** Recevoir les datas depuis le fichier `data.json` plutôt que directement dans `data(){}`
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+L'utilisateur devrait être capable de :
+
+- Voir les états "hover" de tous les éléments interractifs de la page
+- Changer entre journalier, mensuel et annuel
+
+### Comportement attendu
+
+- Le texte pour la période précédente devrait changer en fonction de la timeframe. "Hier" pour journalier (ex : `Hier - 2h`), "La semaine passée" pour hebdomadaire, "Le mois passé" pour mensuel.
+
+**Bonne chance !** 👾
