@@ -20,3 +20,5 @@ L'utilisateur devrait être capable de :
 - Le texte pour la période précédente devrait changer en fonction de la timeframe. "Hier" pour journalier (ex : `Hier - 2h`), "La semaine passée" pour hebdomadaire, "Le mois passé" pour mensuel.
 
 **Bonne chance !** 👾
+
+_ps : commencez par un_ `npm i`
